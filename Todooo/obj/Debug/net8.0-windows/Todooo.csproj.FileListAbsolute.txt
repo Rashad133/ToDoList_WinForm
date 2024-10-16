@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\bin\Debug\net8.0-windows\Todooo.exe
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\bin\Debug\net8.0-windows\Todooo.deps.json
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\bin\Debug\net8.0-windows\Todooo.runtimeconfig.json
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\bin\Debug\net8.0-windows\Todooo.dll
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\bin\Debug\net8.0-windows\Todooo.pdb
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.Form1.resources
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.dll
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\refint\Todooo.dll
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.pdb
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\Todooo.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Todo_Task\Todooo\Todooo\obj\Debug\net8.0-windows\ref\Todooo.dll
